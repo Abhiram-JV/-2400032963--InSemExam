@@ -6,8 +6,9 @@ import './App.css'
 function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Hello World 🌍</h1>
-      <p>This is the main branch.</p>
+      <h1>Congralutions</h1>
+      <h2>Welcome to React!</h2>
+      <p>This is from the feature-add-greeting branch.</p>
     </div>
   );
 }
