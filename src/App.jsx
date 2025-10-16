@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Congratulations from Alice (feature1)</h1>
+      <h1>Congratulations from Alice and Bob (resolved)</h1>
       <h2>Welcome to React!</h2>
       <p>This is from the feature-add-greeting branch.</p>
     </div>
